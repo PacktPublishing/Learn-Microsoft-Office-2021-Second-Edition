@@ -47,3 +47,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Linda Foulkes**
 is a senior learning and development trainer at Knights. She is also a Microsoft Office Master Trainer, Certified Educator, and Microsoft Innovative Expert Educator with an educational and corporate background spanning 25 years. Linda is the author of the first edition of the book Learn Microsoft Office 2019. As well as being certified as an IT trainer, Linda represented South Africa at the Microsoft Global Forum in Redmond in 2015. She has certified students to compete at the Microsoft Office Specialist Championships in Texas, presented at conferences, and hosted webinars, TeachMeets, and MicrosoftMeets. She has a keen interest in e-learning and has developed e-learning paths and content for the Microsoft Office suite of programs.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803239736">https://packt.link/free-ebook/9781803239736 </a> </p>
